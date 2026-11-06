@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "sphinx-contrib-rapidoc",
+  "versions": [
+    {
+      "commit": "b1ece327c26854e6867e2d0670a8ade753354948",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:20:34.356752+00:00"
+    }
+  ]
+}
