@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sphinx-contrib-rapidoc/commit/b1ece327c26854e6867e2d0670a8ade753354948",
       "git:hexsha": "b1ece327c26854e6867e2d0670a8ade753354948",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
